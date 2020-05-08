@@ -1,0 +1,15 @@
+newmtl Spikes_1
+bump NormalMap(6).png
+disp NormalMap(6).png
+map_Ke checker-texture.png
+Kd 0.1686606 0 1
+d 1
+
+newmtl SketchUp-2Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl SketchUpMat
+Kd 0.8 0.8 0.8
+d 1
+

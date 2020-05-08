@@ -1,0 +1,1420 @@
+***** Player Log Info ***** 
+
+Login date:5/3/2020 4:22:55 PM
+Login date:5/3/2020 4:24:00 PM
+Login date:5/3/2020 4:24:24 PM
+Login date:5/3/2020 4:25:50 PM
+Login date:5/3/2020 4:34:05 PM
+Login date:5/3/2020 4:34:14 PM
+Login date:5/3/2020 4:37:47 PM
+Login date:5/3/2020 4:37:53 PM
+Login date:5/3/2020 4:39:59 PM
+Login date:5/3/2020 4:40:06 PM
+Login date:5/3/2020 5:07:59 PM
+Login date:5/3/2020 5:08:30 PM
+Level: Level 5
+ Time:  21.20857
+ Deaths: 2
+
+Login date:5/3/2020 5:30:48 PM
+Login date:5/3/2020 5:31:33 PM
+Level: Level 5
+ Time:  13.20724
+ Deaths: 0
+
+
+
+
+
+
+
+Login date:5/3/2020 5:34:07 PM
+Level: Level 4
+ Time:  13.78794
+ Deaths: 0
+ 
+ 
+ 
+ 
+ 
+
+Login date:5/3/2020 5:37:43 PM
+Level: Level 4
+ Time:  8.928787
+ Deaths: 0
+
+Login date:5/3/2020 5:39:11 PM
+Level: Level 4
+ Time:  8.013542
+ Deaths: 0
+
+Level: UnityEngine.SceneManagement.Scene
+ Time:  18.1039
+ Deaths: 0
+
+Level: UnityEngine.SceneManagement.Scene
+ Time:  18.1039
+ Deaths: 0
+
+Level: UnityEngine.SceneManagement.Scene
+ Time:  18.1039
+ Deaths: 0
+
+Level: UnityEngine.SceneManagement.Scene
+ Time:  18.1039
+ Deaths: 0
+
+Login date:5/3/2020 5:44:28 PM
+Level: Level 4
+ Time:  9.679592
+ Deaths: 0
+ 
+ 
+ 
+ 
+
+
+Login date: 5/3/2020 7:32:18 PM
+Level: Level 4
+ Time:  9.438948
+ Deaths: 0
+
+Level: UnityEngine.SceneManagement.Scene
+ Time:  13.67598
+ Deaths: 0
+
+Level: UnityEngine.SceneManagement.Scene
+ Time:  6.547646
+ Deaths: 0
+
+Level: UnityEngine.SceneManagement.Scene
+ Time:  11.52424
+ Deaths: 0
+
+Level: UnityEngine.SceneManagement.Scene
+ Time:  6.489875
+ Deaths: 0
+
+
+Login date: 5/3/2020 7:34:15 PM
+Level: Level 4
+ Time:  10.62894
+ Deaths: 0
+
+Level: Level 5
+ Time:  11.5773
+ Deaths: 0
+
+Level: Level 6
+ Time:  5.882337
+ Deaths: 0
+
+Level: Level 7
+ Time:  12.69918
+ Deaths: 0
+
+Level: Level 8
+ Time:  28.82578
+ Deaths: 2
+
+Login date: 5/4/2020 9:57:57 AM
+Level: Level 4
+ Time:  17.15292
+ Deaths: 0
+
+Login date: 5/4/2020 9:59:41 AM
+Login date: 5/4/2020 10:01:52 AM
+Level: Level 5
+ Time:  14.2127
+ Deaths: 0
+
+Login date: 5/4/2020 10:02:30 AM
+Login date: 5/4/2020 10:05:34 AM
+Login date: 5/4/2020 10:06:23 AM
+Level: Level 5
+ Time:  15.77063
+ Deaths: 0
+
+Login date: 5/4/2020 10:14:20 AM
+Login date: 5/4/2020 10:15:54 AM
+Login date: 5/4/2020 10:18:45 AM
+Login date: 5/4/2020 10:23:22 AM
+Level: Level 5
+ Time:  45.90672
+ Deaths: 0
+
+Login date: 5/4/2020 10:24:20 AM
+Login date: 5/4/2020 11:49:51 AM
+Login date: 5/4/2020 11:50:14 AM
+Level: Level 5
+ Time:  12.94286
+ Deaths: 0
+
+Level: Level 6
+ Time:  16.40974
+ Deaths: 0
+
+Login date: 5/4/2020 12:25:33 PM
+Login date: 5/4/2020 12:52:03 PM
+Login date: 5/4/2020 12:54:33 PM
+Login date: 5/4/2020 12:55:43 PM
+Login date: 5/4/2020 1:05:27 PM
+Login date: 5/4/2020 1:07:24 PM
+Login date: 5/4/2020 1:08:15 PM
+Login date: 5/4/2020 1:08:39 PM
+Login date: 5/4/2020 1:26:23 PM
+Login date: 5/4/2020 1:27:23 PM
+Login date: 5/4/2020 1:27:50 PM
+Login date: 5/4/2020 1:37:10 PM
+Login date: 5/4/2020 2:15:06 PM
+Login date: 5/4/2020 4:36:03 PM
+Login date: 5/4/2020 4:36:37 PM
+Login date: 5/4/2020 4:36:53 PM
+Login date: 5/4/2020 4:38:18 PM
+Login date: 5/4/2020 4:42:57 PM
+Login date: 5/4/2020 4:44:21 PM
+Login date: 5/4/2020 4:44:34 PM
+Login date: 5/4/2020 4:51:09 PM
+Login date: 5/4/2020 4:53:39 PM
+Login date: 5/4/2020 4:55:47 PM
+Level: Level 4
+ Time:  30.91965
+ Deaths: 0
+
+Login date: 5/4/2020 4:56:49 PM
+Login date: 5/4/2020 4:58:33 PM
+Login date: 5/4/2020 4:59:15 PM
+Login date: 5/4/2020 5:00:01 PM
+Login date: 5/4/2020 5:02:15 PM
+Login date: 5/4/2020 5:02:42 PM
+Login date: 5/4/2020 5:03:10 PM
+Login date: 5/4/2020 5:04:05 PM
+Login date: 5/4/2020 5:07:40 PM
+Login date: 5/4/2020 5:14:41 PM
+Login date: 5/4/2020 5:16:10 PM
+Login date: 5/4/2020 5:16:26 PM
+Login date: 5/4/2020 5:18:28 PM
+Login date: 5/4/2020 5:20:30 PM
+Login date: 5/4/2020 5:22:05 PM
+Login date: 5/4/2020 5:22:52 PM
+Login date: 5/4/2020 5:26:46 PM
+Login date: 5/4/2020 5:27:01 PM
+Login date: 5/4/2020 5:32:25 PM
+Login date: 5/4/2020 5:37:00 PM
+Login date: 5/4/2020 5:41:07 PM
+Login date: 5/4/2020 5:41:51 PM
+Login date: 5/4/2020 5:44:55 PM
+Login date: 5/4/2020 5:46:48 PM
+Login date: 5/4/2020 5:49:42 PM
+Login date: 5/4/2020 5:51:42 PM
+Login date: 5/4/2020 5:55:16 PM
+Login date: 5/4/2020 5:55:39 PM
+Login date: 5/4/2020 5:56:09 PM
+Login date: 5/4/2020 5:58:59 PM
+Login date: 5/4/2020 6:02:02 PM
+Level: Level 5
+ Time:  14.40523
+ Deaths: 0
+
+Login date: 5/4/2020 6:14:09 PM
+Level: Level 4
+ Time:  8.575493
+ Deaths: 0
+
+Level: Level 5
+ Time:  15.44917
+ Deaths: 0
+
+Login date: 5/4/2020 6:16:04 PM
+Login date: 5/4/2020 6:16:45 PM
+Login date: 5/4/2020 6:16:52 PM
+Login date: 5/4/2020 6:16:58 PM
+Login date: 5/4/2020 6:17:37 PM
+Login date: 5/4/2020 6:17:56 PM
+Login date: 5/4/2020 6:18:37 PM
+Login date: 5/4/2020 6:18:47 PM
+Level: Level 8
+ Time:  10.0374
+ Deaths: 0
+
+Login date: 5/4/2020 6:19:59 PM
+Login date: 5/4/2020 6:20:20 PM
+Login date: 5/4/2020 6:22:20 PM
+Login date: 5/4/2020 6:23:05 PM
+Login date: 5/4/2020 6:23:38 PM
+Login date: 5/4/2020 6:23:52 PM
+Login date: 5/4/2020 6:31:36 PM
+Login date: 5/4/2020 6:35:11 PM
+Login date: 5/4/2020 6:35:25 PM
+Login date: 5/4/2020 6:36:32 PM
+Login date: 5/4/2020 6:36:52 PM
+Login date: 5/4/2020 6:38:05 PM
+Login date: 5/4/2020 6:38:43 PM
+Login date: 5/4/2020 6:38:58 PM
+Login date: 5/4/2020 6:39:37 PM
+Login date: 5/4/2020 6:40:06 PM
+Login date: 5/4/2020 6:49:56 PM
+Login date: 5/4/2020 6:50:30 PM
+Login date: 5/4/2020 6:51:39 PM
+Login date: 5/4/2020 6:51:48 PM
+Login date: 5/4/2020 6:52:05 PM
+Login date: 5/4/2020 7:59:06 PM
+Login date: 5/4/2020 7:59:40 PM
+Login date: 5/4/2020 8:01:08 PM
+Login date: 5/4/2020 8:02:01 PM
+Login date: 5/4/2020 8:02:49 PM
+Login date: 5/4/2020 8:03:00 PM
+Login date: 5/4/2020 8:04:04 PM
+Login date: 5/4/2020 8:04:16 PM
+Login date: 5/4/2020 8:04:25 PM
+Login date: 5/4/2020 8:04:55 PM
+Login date: 5/4/2020 8:05:18 PM
+Login date: 5/4/2020 8:07:06 PM
+Login date: 5/4/2020 8:07:22 PM
+Login date: 5/4/2020 8:07:46 PM
+Login date: 5/4/2020 8:08:14 PM
+Login date: 5/4/2020 8:09:17 PM
+Login date: 5/4/2020 9:25:36 PM
+Login date: 5/4/2020 9:26:00 PM
+Login date: 5/4/2020 9:57:44 PM
+Login date: 5/4/2020 9:58:59 PM
+Login date: 5/4/2020 9:59:28 PM
+Login date: 5/4/2020 9:59:46 PM
+Login date: 5/4/2020 10:00:06 PM
+Login date: 5/4/2020 10:00:27 PM
+Login date: 5/4/2020 10:00:55 PM
+Login date: 5/4/2020 10:04:28 PM
+Login date: 5/4/2020 10:04:43 PM
+Login date: 5/4/2020 10:07:50 PM
+Login date: 5/4/2020 10:08:26 PM
+Login date: 5/4/2020 10:08:47 PM
+Login date: 5/4/2020 10:09:47 PM
+Login date: 5/4/2020 10:10:01 PM
+Login date: 5/4/2020 10:11:35 PM
+Login date: 5/5/2020 11:52:11 AM
+Login date: 5/5/2020 11:54:35 AM
+Login date: 5/5/2020 11:58:01 AM
+Login date: 5/5/2020 12:00:09 PM
+Login date: 5/5/2020 12:00:41 PM
+Login date: 5/5/2020 12:14:23 PM
+Login date: 5/5/2020 12:14:45 PM
+Login date: 5/5/2020 12:19:12 PM
+Login date: 5/5/2020 12:20:21 PM
+Login date: 5/5/2020 12:20:35 PM
+Login date: 5/5/2020 12:28:09 PM
+Login date: 5/5/2020 12:29:01 PM
+Login date: 5/5/2020 12:29:14 PM
+Login date: 5/5/2020 12:29:30 PM
+Login date: 5/5/2020 12:30:07 PM
+Login date: 5/5/2020 12:34:23 PM
+Login date: 5/5/2020 12:34:41 PM
+Login date: 5/5/2020 12:35:00 PM
+Login date: 5/5/2020 12:35:23 PM
+Login date: 5/5/2020 12:42:12 PM
+Login date: 5/5/2020 12:44:05 PM
+Login date: 5/5/2020 12:52:57 PM
+Login date: 5/5/2020 12:53:44 PM
+Login date: 5/5/2020 12:54:38 PM
+Login date: 5/5/2020 12:54:58 PM
+Login date: 5/5/2020 12:55:30 PM
+Login date: 5/5/2020 12:56:12 PM
+Login date: 5/5/2020 12:58:31 PM
+Login date: 5/5/2020 1:00:28 PM
+Login date: 5/5/2020 1:07:30 PM
+Login date: 5/5/2020 1:11:39 PM
+Login date: 5/5/2020 1:30:00 PM
+Login date: 5/5/2020 1:31:52 PM
+Login date: 5/5/2020 1:32:32 PM
+Level: Level 9
+ Time:  21.68874
+ Deaths: 0
+
+Login date: 5/5/2020 4:31:28 PM
+Login date: 5/5/2020 5:24:14 PM
+Login date: 5/5/2020 5:25:27 PM
+Login date: 5/5/2020 5:25:42 PM
+Login date: 5/5/2020 5:25:54 PM
+Login date: 5/5/2020 5:26:32 PM
+Level: Level 9
+ Time:  33.71642
+ Deaths: 1
+
+Login date: 5/5/2020 5:27:16 PM
+Login date: 5/5/2020 5:27:33 PM
+Login date: 5/5/2020 5:28:44 PM
+Login date: 5/5/2020 5:37:13 PM
+Login date: 5/5/2020 5:41:05 PM
+Login date: 5/5/2020 5:57:52 PM
+Login date: 5/5/2020 6:04:06 PM
+Login date: 5/5/2020 6:04:24 PM
+Login date: 5/5/2020 6:04:45 PM
+Login date: 5/5/2020 6:17:46 PM
+Login date: 5/5/2020 6:18:23 PM
+Login date: 5/5/2020 6:59:50 PM
+Login date: 5/5/2020 7:00:00 PM
+Login date: 5/5/2020 7:00:13 PM
+Login date: 5/5/2020 7:06:11 PM
+Login date: 5/5/2020 7:06:27 PM
+Login date: 5/5/2020 7:07:49 PM
+Login date: 5/5/2020 7:09:18 PM
+Login date: 5/5/2020 7:11:25 PM
+Login date: 5/5/2020 7:12:45 PM
+Login date: 5/5/2020 7:42:01 PM
+Login date: 5/5/2020 7:43:25 PM
+Login date: 5/5/2020 7:43:51 PM
+Login date: 5/5/2020 7:45:59 PM
+Login date: 5/5/2020 7:49:10 PM
+Login date: 5/5/2020 7:50:36 PM
+Login date: 5/5/2020 7:51:45 PM
+Login date: 5/5/2020 8:01:55 PM
+Login date: 5/5/2020 8:02:12 PM
+Login date: 5/5/2020 8:05:39 PM
+Login date: 5/5/2020 8:06:30 PM
+Login date: 5/5/2020 8:08:21 PM
+Login date: 5/5/2020 8:08:38 PM
+Login date: 5/5/2020 8:13:13 PM
+Login date: 5/5/2020 8:18:24 PM
+Login date: 5/5/2020 8:19:00 PM
+Login date: 5/5/2020 8:21:04 PM
+Level: Level 9
+ Time:  36.16853
+ Deaths: 0
+
+Login date: 5/5/2020 8:31:14 PM
+Login date: 5/5/2020 8:33:13 PM
+Login date: 5/5/2020 8:33:30 PM
+Login date: 5/5/2020 8:33:52 PM
+Login date: 5/5/2020 8:34:06 PM
+Login date: 5/5/2020 8:34:21 PM
+Login date: 5/5/2020 8:34:31 PM
+Login date: 5/5/2020 8:34:56 PM
+Login date: 5/5/2020 8:37:37 PM
+Login date: 5/5/2020 8:40:32 PM
+Login date: 5/5/2020 8:47:01 PM
+Login date: 5/5/2020 8:47:30 PM
+Login date: 5/5/2020 8:47:53 PM
+Login date: 5/5/2020 8:48:32 PM
+Login date: 5/5/2020 8:49:12 PM
+Login date: 5/5/2020 8:49:28 PM
+Login date: 5/5/2020 8:49:38 PM
+Login date: 5/5/2020 8:49:45 PM
+Login date: 5/5/2020 8:49:55 PM
+Login date: 5/5/2020 8:50:12 PM
+Login date: 5/5/2020 8:50:40 PM
+Login date: 5/5/2020 8:53:31 PM
+Login date: 5/5/2020 8:54:41 PM
+Login date: 5/5/2020 8:56:09 PM
+Login date: 5/5/2020 8:56:22 PM
+Login date: 5/5/2020 8:57:11 PM
+Login date: 5/5/2020 8:58:43 PM
+Login date: 5/5/2020 8:58:57 PM
+Login date: 5/5/2020 9:01:00 PM
+Login date: 5/5/2020 9:01:24 PM
+Login date: 5/5/2020 9:02:27 PM
+Login date: 5/5/2020 9:02:56 PM
+Login date: 5/5/2020 9:03:51 PM
+Login date: 5/5/2020 9:05:17 PM
+Level: MouseMovingLevel
+ Time:  12.85643
+ Deaths: 0
+
+Login date: 5/5/2020 9:07:02 PM
+Login date: 5/5/2020 9:07:56 PM
+Login date: 5/5/2020 9:08:15 PM
+Login date: 5/5/2020 9:08:49 PM
+Login date: 5/5/2020 9:09:22 PM
+Login date: 5/5/2020 9:09:35 PM
+Login date: 5/5/2020 9:10:01 PM
+Login date: 5/5/2020 9:10:18 PM
+Level: Level 2
+ Time:  14.1468
+ Deaths: 1
+
+Login date: 5/5/2020 9:13:16 PM
+Level: Level 1
+ Time:  8.875149
+ Deaths: 0
+
+Level: Level 2
+ Time:  12.90673
+ Deaths: 0
+
+Login date: 5/5/2020 9:14:14 PM
+Level: Level 3
+ Time:  23.2375
+ Deaths: 0
+
+Level: Level 4
+ Time:  15.76599
+ Deaths: 0
+
+Level: Level 5
+ Time:  11.62978
+ Deaths: 0
+
+Level: Level 6
+ Time:  7.711345
+ Deaths: 0
+
+Login date: 5/5/2020 9:18:55 PM
+Login date: 5/5/2020 9:30:45 PM
+Login date: 5/5/2020 9:31:59 PM
+Login date: 5/5/2020 9:32:30 PM
+Login date: 5/5/2020 9:32:42 PM
+Login date: 5/5/2020 9:33:08 PM
+Login date: 5/5/2020 9:33:32 PM
+Login date: 5/5/2020 9:34:43 PM
+Login date: 5/5/2020 9:35:03 PM
+Login date: 5/5/2020 9:35:16 PM
+Login date: 5/5/2020 9:54:08 PM
+Login date: 5/5/2020 9:54:08 PM
+Login date: 5/5/2020 9:58:49 PM
+Login date: 5/5/2020 9:58:49 PM
+Login date: 5/5/2020 10:00:54 PM
+Login date: 5/5/2020 10:00:54 PM
+Login date: 5/5/2020 10:02:29 PM
+Level: Level 1
+ Time:  30.17747
+ Deaths: 0
+
+Login date: 5/5/2020 10:04:21 PM
+Level: Level 1
+ Time:  6.51637
+ Deaths: 0
+
+Login date: 5/5/2020 10:05:49 PM
+Login date: 5/5/2020 10:06:11 PM
+Level: Level 1
+ Time:  6.157709
+ Deaths: 0
+
+Login date: 5/5/2020 10:07:56 PM
+Login date: 5/5/2020 10:09:34 PM
+Login date: 5/5/2020 10:09:49 PM
+Login date: 5/5/2020 10:10:55 PM
+Login date: 5/5/2020 10:12:36 PM
+Login date: 5/5/2020 10:14:39 PM
+Login date: 5/5/2020 10:18:14 PM
+Login date: 5/5/2020 10:18:31 PM
+Login date: 5/5/2020 10:18:38 PM
+Level: Level 1
+ Time:  6.576385
+ Deaths: 0
+
+Login date: 5/5/2020 10:19:18 PM
+Login date: 5/5/2020 10:26:24 PM
+Level: Level 2
+ Time:  23.41971
+ Deaths: 0
+
+Login date: 5/5/2020 10:28:33 PM
+Level: Level 2
+ Time:  7.499756
+ Deaths: 0
+
+Login date: 5/5/2020 10:30:11 PM
+Level: Level 2
+ Time:  6.275906
+ Deaths: 0
+
+Login date: 5/5/2020 10:31:34 PM
+Level: Level 2
+ Time:  7.458671
+ Deaths: 0
+
+Login date: 5/5/2020 10:32:33 PM
+Level: Level 2
+ Time:  6.818405
+ Deaths: 0
+
+Login date: 5/5/2020 10:35:09 PM
+Login date: 5/5/2020 10:40:34 PM
+Login date: 5/5/2020 10:41:04 PM
+Login date: 5/5/2020 10:41:48 PM
+Level: Level 2
+ Time:  5.978176
+ Deaths: 0
+
+Login date: 5/5/2020 10:45:45 PM
+Login date: 5/5/2020 10:46:42 PM
+Login date: 5/5/2020 10:47:58 PM
+Level: Level 2
+ Time:  6.398801
+ Deaths: 0
+
+Login date: 5/5/2020 10:48:44 PM
+Login date: 5/5/2020 10:49:06 PM
+Login date: 5/5/2020 10:50:16 PM
+Login date: 5/5/2020 10:51:51 PM
+Login date: 5/5/2020 10:51:56 PM
+Login date: 5/5/2020 11:07:10 PM
+Level: Level 2
+ Time:  6.975538
+ Deaths: 0
+
+Login date: 5/5/2020 11:07:33 PM
+Login date: 5/6/2020 12:52:03 PM
+Login date: 5/6/2020 12:52:16 PM
+Login date: 5/6/2020 12:52:34 PM
+Login date: 5/6/2020 12:52:43 PM
+Login date: 5/6/2020 12:53:40 PM
+Login date: 5/6/2020 12:53:59 PM
+Login date: 5/6/2020 12:54:05 PM
+Login date: 5/6/2020 12:54:12 PM
+Level: Level 3
+ Time:  25.39065
+ Deaths: 2
+
+Login date: 5/6/2020 12:54:57 PM
+Login date: 5/6/2020 12:55:48 PM
+Login date: 5/6/2020 12:57:31 PM
+Login date: 5/6/2020 12:57:50 PM
+Login date: 5/6/2020 1:01:38 PM
+Login date: 5/6/2020 1:11:24 PM
+Login date: 5/6/2020 1:12:21 PM
+Login date: 5/6/2020 1:22:15 PM
+Login date: 5/6/2020 1:23:08 PM
+Login date: 5/6/2020 1:23:16 PM
+Level: Level 3
+ Time:  24.42906
+ Deaths: 4
+
+Login date: 5/6/2020 1:27:53 PM
+Level: Level 1
+ Time:  20.79815
+ Deaths: 3
+
+Level: Level 2
+ Time:  8.374414
+ Deaths: 0
+
+Level: Level 3
+ Time:  9.069466
+ Deaths: 0
+
+Level: Level 4
+ Time:  4.107255
+ Deaths: 0
+
+Level: Level 5
+ Time:  9.223516
+ Deaths: 0
+
+Level: Level 6
+ Time:  4.16612
+ Deaths: 0
+
+Level: Level 7
+ Time:  25.25614
+ Deaths: 1
+
+
+Login date: 5/6/2020 2:23:48 PM
+Level: Level 1
+ Time:  19.21856
+ Deaths: 0
+
+Login date: 5/6/2020 2:26:23 PM
+Login date: 5/6/2020 2:26:54 PM
+Login date: 5/6/2020 2:27:22 PM
+Login date: 5/6/2020 2:27:50 PM
+Login date: 5/6/2020 2:30:28 PM
+Login date: 5/6/2020 2:31:11 PM
+Login date: 5/6/2020 2:32:16 PM
+Login date: 5/6/2020 2:32:28 PM
+Login date: 5/6/2020 2:32:43 PM
+Level: Level 7
+ Time:  12.98146
+ Deaths: 0
+
+Login date: 5/6/2020 2:46:56 PM
+Level: Level 3
+ Time:  52.98301
+ Deaths: 2
+
+Login date: 5/6/2020 2:54:15 PM
+Login date: 5/6/2020 2:56:48 PM
+Login date: 5/6/2020 2:57:53 PM
+Login date: 5/6/2020 2:58:26 PM
+Login date: 5/6/2020 3:00:08 PM
+Login date: 5/6/2020 3:00:26 PM
+Login date: 5/6/2020 3:00:37 PM
+Login date: 5/6/2020 3:00:57 PM
+Login date: 5/6/2020 3:01:27 PM
+Login date: 5/6/2020 3:02:04 PM
+Login date: 5/6/2020 3:02:24 PM
+Login date: 5/6/2020 3:04:49 PM
+Login date: 5/6/2020 3:06:14 PM
+Level: Level 8
+ Time:  6.791465
+ Deaths: 0
+
+Login date: 5/6/2020 3:06:48 PM
+Login date: 5/6/2020 3:07:53 PM
+Login date: 5/6/2020 3:08:10 PM
+Login date: 5/6/2020 3:08:20 PM
+Login date: 5/6/2020 3:08:34 PM
+Login date: 5/6/2020 3:08:43 PM
+Login date: 5/6/2020 3:09:02 PM
+Login date: 5/6/2020 3:09:37 PM
+Level: Level 4
+ Time:  26.73196
+ Deaths: 1
+
+Login date: 5/6/2020 3:10:10 PM
+Level: Level 4
+ Time:  4.552406
+ Deaths: 0
+
+Login date: 5/6/2020 3:14:51 PM
+Login date: 5/6/2020 3:15:12 PM
+Login date: 5/6/2020 3:15:31 PM
+Login date: 5/6/2020 3:15:39 PM
+Login date: 5/6/2020 3:15:54 PM
+Login date: 5/6/2020 3:16:18 PM
+Login date: 5/6/2020 3:17:12 PM
+Login date: 5/6/2020 3:17:40 PM
+Login date: 5/6/2020 3:17:50 PM
+Login date: 5/6/2020 3:18:09 PM
+Login date: 5/6/2020 3:18:21 PM
+Login date: 5/6/2020 3:20:35 PM
+Login date: 5/6/2020 3:23:31 PM
+Login date: 5/6/2020 3:29:34 PM
+Level: Level 8
+ Time:  15.69807
+ Deaths: 0
+
+Login date: 5/6/2020 3:30:59 PM
+Login date: 5/6/2020 3:31:29 PM
+Login date: 5/6/2020 3:31:35 PM
+Login date: 5/6/2020 3:31:42 PM
+Login date: 5/6/2020 3:31:56 PM
+Login date: 5/6/2020 3:32:50 PM
+Login date: 5/6/2020 3:33:39 PM
+Login date: 5/6/2020 3:33:49 PM
+Login date: 5/6/2020 3:35:59 PM
+Login date: 5/6/2020 3:36:37 PM
+Login date: 5/6/2020 3:37:28 PM
+Login date: 5/6/2020 3:37:58 PM
+Login date: 5/6/2020 3:39:02 PM
+Login date: 5/6/2020 3:39:23 PM
+Level: Level 6
+ Time:  14.147
+ Deaths: 1
+
+Login date: 5/6/2020 3:40:28 PM
+Login date: 5/6/2020 3:41:39 PM
+Login date: 5/6/2020 3:41:52 PM
+Login date: 5/6/2020 3:42:07 PM
+Login date: 5/6/2020 3:42:50 PM
+Login date: 5/6/2020 5:21:29 PM
+Login date: 5/6/2020 5:22:53 PM
+Login date: 5/6/2020 5:29:20 PM
+Login date: 5/6/2020 5:29:55 PM
+Login date: 5/6/2020 5:33:50 PM
+Login date: 5/6/2020 5:34:24 PM
+Level: Level 1
+ Time:  6.517303
+ Deaths: 0
+
+Level: Level 2
+ Time:  6.583285
+ Deaths: 0
+
+Level: Level 3
+ Time:  12.18442
+ Deaths: 0
+
+Level: Level 4
+ Time:  6.725537
+ Deaths: 0
+
+Level: Level 5
+ Time:  9.781549
+ Deaths: 0
+
+Level: Level 6
+ Time:  8.023109
+ Deaths: 0
+
+Login date: 5/6/2020 5:35:56 PM
+Level: Level 1
+ Time:  5.888919
+ Deaths: 0
+
+Level: Level 2
+ Time:  5.898356
+ Deaths: 0
+
+Level: Level 3
+ Time:  10.50027
+ Deaths: 0
+
+Level: Level 4
+ Time:  3.180406
+ Deaths: 0
+
+Level: Level 5
+ Time:  7.802339
+ Deaths: 0
+
+Level: Level 6
+ Time:  4.12569
+ Deaths: 0
+
+Level: Level 7
+ Time:  12.3405
+ Deaths: 0
+
+Login date: 5/6/2020 5:41:24 PM
+Login date: 5/6/2020 5:42:08 PM
+Login date: 5/6/2020 5:42:15 PM
+Login date: 5/6/2020 5:43:04 PM
+Login date: 5/6/2020 5:44:14 PM
+Login date: 5/6/2020 5:44:51 PM
+Level: Level 1
+ Time:  8.096667
+ Deaths: 0
+
+Login date: 5/6/2020 6:27:38 PM
+Login date: 5/6/2020 6:28:23 PM
+Login date: 5/6/2020 6:30:34 PM
+Login date: 5/6/2020 6:31:07 PM
+Login date: 5/6/2020 6:31:38 PM
+Login date: 5/6/2020 6:34:39 PM
+Login date: 5/6/2020 6:37:48 PM
+Login date: 5/6/2020 6:38:01 PM
+Login date: 5/6/2020 9:25:39 PM
+Login date: 5/6/2020 9:26:33 PM
+Login date: 5/6/2020 11:03:04 PM
+Login date: 5/6/2020 11:06:08 PM
+Login date: 5/6/2020 11:07:14 PM
+Login date: 5/6/2020 11:08:15 PM
+Login date: 5/6/2020 11:09:34 PM
+Login date: 5/6/2020 11:10:03 PM
+Login date: 5/6/2020 11:19:26 PM
+Login date: 5/6/2020 11:20:46 PM
+Login date: 5/6/2020 11:24:38 PM
+Login date: 5/6/2020 11:25:43 PM
+Login date: 5/6/2020 11:26:06 PM
+Login date: 5/6/2020 11:26:54 PM
+Login date: 5/6/2020 11:28:43 PM
+Login date: 5/6/2020 11:46:29 PM
+Login date: 5/6/2020 11:54:38 PM
+Login date: 5/6/2020 11:56:19 PM
+Login date: 5/7/2020 12:00:20 AM
+Login date: 5/7/2020 11:50:04 AM
+Login date: 5/7/2020 11:52:23 AM
+Login date: 5/7/2020 11:52:36 AM
+Login date: 5/7/2020 12:05:42 PM
+Login date: 5/7/2020 12:15:35 PM
+Login date: 5/7/2020 12:33:35 PM
+Login date: 5/7/2020 12:40:32 PM
+Login date: 5/7/2020 12:50:55 PM
+Login date: 5/7/2020 12:53:55 PM
+Login date: 5/7/2020 12:54:25 PM
+Login date: 5/7/2020 12:55:22 PM
+Login date: 5/7/2020 12:56:52 PM
+Level: Level 8
+ Time:  2.248901
+ Deaths: 0
+
+Login date: 5/7/2020 12:58:48 PM
+Level: Level 8
+ Time:  7.834128
+ Deaths: 0
+
+Login date: 5/7/2020 1:00:49 PM
+Level: Level 8
+ Time:  7.376785
+ Deaths: 0
+
+Login date: 5/7/2020 1:05:15 PM
+Level: Level 8
+ Time:  21.75308
+ Deaths: 4
+
+Login date: 5/7/2020 1:05:45 PM
+Login date: 5/7/2020 1:33:07 PM
+Login date: 5/7/2020 1:47:06 PM
+Login date: 5/7/2020 2:09:17 PM
+Login date: 5/7/2020 2:10:56 PM
+Login date: 5/7/2020 2:12:10 PM
+Login date: 5/7/2020 2:13:17 PM
+Login date: 5/7/2020 2:15:11 PM
+Login date: 5/7/2020 2:15:35 PM
+Level: Level 8
+ Time:  56.26712
+ Deaths: 10
+
+Login date: 5/7/2020 2:18:41 PM
+Level: Level 8
+ Time:  11.93113
+ Deaths: 0
+
+Login date: 5/7/2020 2:24:43 PM
+Login date: 5/7/2020 2:27:04 PM
+Level: Level 1
+ Time:  9.72307
+ Deaths: 0
+
+Level: Level 2
+ Time:  8.624915
+ Deaths: 0
+
+Level: Level 3
+ Time:  15.12954
+ Deaths: 0
+
+Level: Level 4
+ Time:  13.19594
+ Deaths: 0
+
+Level: Level 5
+ Time:  14.80122
+ Deaths: 0
+
+Level: Level 6
+ Time:  11.89335
+ Deaths: 0
+
+Level: Level 7
+ Time:  6.252996
+ Deaths: 0
+
+Level: Level 8
+ Time:  14.79588
+ Deaths: 0
+
+Login date: 5/7/2020 5:36:00 PM
+Login date: 5/7/2020 5:36:54 PM
+Login date: 5/7/2020 5:38:40 PM
+Login date: 5/7/2020 5:39:00 PM
+Login date: 5/7/2020 5:39:42 PM
+Login date: 5/7/2020 5:40:11 PM
+Login date: 5/7/2020 5:40:28 PM
+Login date: 5/7/2020 5:42:00 PM
+Login date: 5/7/2020 5:44:20 PM
+Login date: 5/7/2020 5:47:44 PM
+Login date: 5/7/2020 5:48:14 PM
+Login date: 5/7/2020 5:54:23 PM
+Login date: 5/7/2020 5:55:09 PM
+Login date: 5/7/2020 5:55:33 PM
+Login date: 5/7/2020 5:55:47 PM
+Login date: 5/7/2020 5:56:14 PM
+Login date: 5/7/2020 5:56:50 PM
+Login date: 5/7/2020 5:59:33 PM
+Login date: 5/7/2020 6:01:21 PM
+Login date: 5/7/2020 6:02:03 PM
+Login date: 5/7/2020 6:03:13 PM
+Login date: 5/7/2020 6:03:43 PM
+Login date: 5/7/2020 6:04:18 PM
+Login date: 5/7/2020 6:04:39 PM
+Login date: 5/7/2020 6:05:56 PM
+Login date: 5/7/2020 6:06:19 PM
+Login date: 5/7/2020 6:06:43 PM
+Login date: 5/7/2020 6:07:08 PM
+Login date: 5/7/2020 6:07:32 PM
+Login date: 5/7/2020 6:07:58 PM
+Login date: 5/7/2020 6:08:38 PM
+Login date: 5/7/2020 6:10:09 PM
+Login date: 5/7/2020 6:12:16 PM
+Login date: 5/7/2020 6:13:22 PM
+Login date: 5/7/2020 6:14:51 PM
+Login date: 5/7/2020 6:15:20 PM
+Login date: 5/7/2020 6:16:03 PM
+Login date: 5/7/2020 6:17:52 PM
+Login date: 5/7/2020 6:18:39 PM
+Login date: 5/7/2020 6:20:59 PM
+Login date: 5/7/2020 6:21:52 PM
+Login date: 5/7/2020 6:40:09 PM
+Login date: 5/7/2020 6:41:07 PM
+Login date: 5/7/2020 6:59:45 PM
+Login date: 5/7/2020 7:00:32 PM
+Login date: 5/7/2020 7:01:27 PM
+Login date: 5/7/2020 7:17:01 PM
+Login date: 5/7/2020 7:17:31 PM
+Level: Level 4
+ Time:  39.25688
+ Deaths: 4
+
+Login date: 5/7/2020 8:02:42 PM
+Login date: 5/7/2020 8:03:09 PM
+Login date: 5/7/2020 8:03:56 PM
+Login date: 5/7/2020 8:05:17 PM
+Login date: 5/7/2020 8:06:00 PM
+Login date: 5/7/2020 8:21:00 PM
+Login date: 5/7/2020 8:21:47 PM
+Login date: 5/7/2020 8:22:19 PM
+Login date: 5/7/2020 8:22:52 PM
+Login date: 5/7/2020 8:23:37 PM
+Login date: 5/7/2020 8:24:10 PM
+Login date: 5/7/2020 8:24:22 PM
+Login date: 5/7/2020 8:24:51 PM
+Login date: 5/7/2020 8:26:28 PM
+Login date: 5/7/2020 8:28:35 PM
+Login date: 5/7/2020 8:32:51 PM
+Login date: 5/7/2020 8:33:49 PM
+Level: Level 4
+ Time:  66.88775
+ Deaths: 2
+
+Login date: 5/7/2020 8:38:24 PM
+Level: Level 8
+ Time:  30.0729
+ Deaths: 0
+
+Level: Level 9
+ Time:  19.06365
+ Deaths: 0
+
+Login date: 5/7/2020 9:01:02 PM
+Level: Level 1
+ Time:  7.390837
+ Deaths: 0
+
+Level: Level 2
+ Time:  8.587587
+ Deaths: 0
+
+Level: Level 3
+ Time:  12.40419
+ Deaths: 0
+
+Level: Level 4
+ Time:  13.27565
+ Deaths: 0
+
+Level: Level 5
+ Time:  12.99821
+ Deaths: 0
+
+Level: Level 6
+ Time:  21.31722
+ Deaths: 2
+
+Level: Level 7
+ Time:  7.097948
+ Deaths: 0
+
+Level: Level 8
+ Time:  64.74557
+ Deaths: 5
+
+Level: Level 9
+ Time:  15.18798
+ Deaths: 0
+
+Login date: 5/7/2020 9:05:28 PM
+Level: Level 9
+ Time:  12.60133
+ Deaths: 0
+
+Login date: 5/7/2020 9:06:57 PM
+Login date: 5/7/2020 9:08:18 PM
+Login date: 5/7/2020 9:13:44 PM
+Login date: 5/7/2020 9:14:31 PM
+Login date: 5/7/2020 9:17:07 PM
+Login date: 5/7/2020 9:18:45 PM
+Login date: 5/7/2020 9:19:06 PM
+Login date: 5/7/2020 9:20:56 PM
+Login date: 5/7/2020 9:28:59 PM
+Login date: 5/7/2020 9:30:49 PM
+Login date: 5/7/2020 9:31:51 PM
+Login date: 5/7/2020 9:47:13 PM
+Login date: 5/7/2020 9:50:55 PM
+Login date: 5/7/2020 10:17:50 PM
+Level: Level 1
+ Time:  8.595322
+ Deaths: 0
+
+Level: Level 2
+ Time:  6.714859
+ Deaths: 0
+
+Level: Level 3
+ Time:  11.38543
+ Deaths: 0
+
+Level: Level 4
+ Time:  4.501123
+ Deaths: 0
+
+Level: Level 5
+ Time:  10.3583
+ Deaths: 0
+
+Level: Level 6
+ Time:  19.81223
+ Deaths: 1
+
+Level: Level 7
+ Time:  7.823908
+ Deaths: 0
+
+Level: Level 8
+ Time:  23.05686
+ Deaths: 0
+
+Level: Level 9
+ Time:  12.11055
+ Deaths: 0
+
+
+ GAME COMPLETE! 
+Total Time: 92.24804Total Deaths: 1Login date: 5/7/2020 10:22:20 PM
+Level: Level 1
+ Time:  6.902412
+ Deaths: 0
+
+Level: Level 2
+ Time:  5.288218
+ Deaths: 0
+
+Level: Level 3
+ Time:  10.94745
+ Deaths: 0
+
+Level: Level 4
+ Time:  5.468704
+ Deaths: 0
+
+Level: Level 5
+ Time:  10.84471
+ Deaths: 0
+
+Login date: 5/7/2020 10:25:58 PM
+Level: Level 1
+ Time:  7.910941
+ Deaths: 0
+
+Level: Level 2
+ Time:  8.557035
+ Deaths: 1
+
+Level: Level 3
+ Time:  11.45233
+ Deaths: 0
+
+Level: Level 4
+ Time:  4.581212
+ Deaths: 0
+
+Level: Level 5
+ Time:  10.43373
+ Deaths: 0
+
+Level: Level 6
+ Time:  8.624559
+ Deaths: 0
+
+Level: Level 7
+ Time:  5.941512
+ Deaths: 0
+
+Level: Level 8
+ Time:  14.88061
+ Deaths: 0
+
+Level: Level 9
+ Time:  11.93323
+ Deaths: 0
+
+
+ GAME COMPLETE! 
+Total Time: 72.38194Total Deaths: 1Login date: 5/7/2020 10:29:19 PM
+Level: Level 9
+ Time:  10.87147
+ Deaths: 0
+
+
+ GAME COMPLETE! 
+Total Time: 0Total Deaths: 0Login date: 5/7/2020 10:30:44 PM
+Level: Level 9
+ Time:  18.12289
+ Deaths: 1
+
+
+ GAME COMPLETE! 
+Total Time: 18.12289Total Deaths: 1Login date: 5/7/2020 10:33:22 PM
+Level: Level 9
+ Time:  18.6083
+ Deaths: 1
+
+
+ GAME COMPLETE! 
+Total Time: 18.6083Total Deaths: 1Login date: 5/7/2020 10:33:56 PM
+Level: Level 1
+ Time:  6.668227
+ Deaths: 0
+
+Level: Level 2
+ Time:  5.500897
+ Deaths: 0
+
+Level: Level 3
+ Time:  11.77139
+ Deaths: 0
+
+Level: Level 4
+ Time:  4.525556
+ Deaths: 0
+
+Level: Level 5
+ Time:  9.662406
+ Deaths: 0
+
+Level: Level 6
+ Time:  7.841444
+ Deaths: 0
+
+Level: Level 7
+ Time:  5.374432
+ Deaths: 0
+
+Level: Level 8
+ Time:  15.95892
+ Deaths: 0
+
+Level: Level 9
+ Time:  11.92289
+ Deaths: 0
+
+
+ GAME COMPLETE! 
+Total Time: 79.22618Total Deaths: 0Login date: 5/7/2020 10:53:14 PM
+Login date: 5/7/2020 11:02:50 PM
+Login date: 5/7/2020 11:12:06 PM
+Login date: 5/7/2020 11:13:21 PM
+Login date: 5/7/2020 11:19:29 PM
+Login date: 5/7/2020 11:20:24 PM
+Login date: 5/7/2020 11:29:46 PM
+Login date: 5/7/2020 11:30:46 PM
+Level: Level 4
+ Time:  12.71709
+ Deaths: 1
+
+Login date: 5/7/2020 11:31:14 PM
+Level: Level 4
+ Time:  4.735992
+ Deaths: 0
+
+Login date: 5/7/2020 11:32:07 PM
+Login date: 5/7/2020 11:33:39 PM
+Login date: 5/7/2020 11:42:52 PM
+Login date: 5/7/2020 11:43:14 PM
+Login date: 5/7/2020 11:43:31 PM
+Level: Level 4
+ Time:  24.47579
+ Deaths: 1
+
+Login date: 5/7/2020 11:44:21 PM
+Login date: 5/7/2020 11:44:47 PM
+Login date: 5/7/2020 11:45:06 PM
+Login date: 5/7/2020 11:45:58 PM
+Login date: 5/7/2020 11:47:39 PM
+Login date: 5/7/2020 11:48:24 PM
+Login date: 5/7/2020 11:49:17 PM
+Login date: 5/7/2020 11:49:53 PM
+Login date: 5/7/2020 11:50:19 PM
+Login date: 5/7/2020 11:50:35 PM
+Login date: 5/7/2020 11:50:51 PM
+Login date: 5/7/2020 11:51:58 PM
+Login date: 5/7/2020 11:52:57 PM
+Level: Level 1
+ Time:  17.37804
+ Deaths: 1
+
+Login date: 5/7/2020 11:53:41 PM
+Level: Level 1
+ Time:  11.38813
+ Deaths: 2
+
+Level: Level 2
+ Time:  9.649396
+ Deaths: 1
+
+Level: Level 3
+ Time:  19.24691
+ Deaths: 1
+
+Level: Level 4
+ Time:  10.88301
+ Deaths: 0
+
+Level: Level 5
+ Time:  34.23173
+ Deaths: 1
+
+Level: Level 6
+ Time:  12.96323
+ Deaths: 1
+
+Level: Level 7
+ Time:  14.08019
+ Deaths: 1
+
+Level: Level 8
+ Time:  18.79898
+ Deaths: 2
+
+Level: Level 9
+ Time:  21.64071
+ Deaths: 2
+
+
+ GAME COMPLETE! 
+Total Time: 152.8823 Total Deaths: 11Login date: 5/7/2020 11:58:43 PM
+Login date: 5/8/2020 12:06:51 AM
+Level: Level 1
+ Time:  17.95977
+ Deaths: 0
+
+Login date: 5/8/2020 12:08:16 AM
+Login date: 5/8/2020 12:32:02 AM
+Login date: 5/8/2020 12:33:52 AM
+Login date: 5/8/2020 12:34:15 AM
+Login date: 5/8/2020 12:34:56 AM
+Login date: 5/8/2020 12:35:12 AM
+Level: Level 1
+ Time:  9.889099
+ Deaths: 0
+
+Level: Level 2
+ Time:  6.709145
+ Deaths: 0
+
+Login date: 5/8/2020 12:36:07 AM
+Level: Level 1
+ Time:  9.488824
+ Deaths: 0
+
+Level: Level 2
+ Time:  7.219286
+ Deaths: 0
+
+Level: Level 3
+ Time:  25.43653
+ Deaths: 1
+
+Level: Level 4
+ Time:  10.70518
+ Deaths: 0
+
+Level: Level 5
+ Time:  15.78354
+ Deaths: 0
+
+Level: Level 6
+ Time:  15.90553
+ Deaths: 1
+
+Level: Level 7
+ Time:  7.140904
+ Deaths: 0
+
+Level: Level 8
+ Time:  15.33528
+ Deaths: 0
+
+Level: Level 9
+ Time:  12.42878
+ Deaths: 0
+
+
+ GAME COMPLETE! 
+Total Time: 119.4439 Total Deaths: 2Login date: 5/8/2020 12:42:04 AM
+Login date: 5/8/2020 12:42:20 AM
+Level: Level 1
+ Time:  12.7699
+ Deaths: 0
+
+Level: Level 2
+ Time:  6.664599
+ Deaths: 0
+
+Level: Level 3
+ Time:  12.58382
+ Deaths: 0
+
+Level: Level 4
+ Time:  10.92027
+ Deaths: 0
+
+Level: Level 5
+ Time:  13.62173
+ Deaths: 0
+
+Level: Level 6
+ Time:  10.23792
+ Deaths: 0
+
+Level: Level 7
+ Time:  6.068046
+ Deaths: 0
+
+Level: Level 8
+ Time:  22.57007
+ Deaths: 2
+
+Level: Level 9
+ Time:  12.98408
+ Deaths: 0
+
+
+ GAME COMPLETE! 
+Total Time: 108.4204 Total Deaths: 2Login date: 5/8/2020 12:55:25 AM
+Level: Level 8
+ Time:  47.7325
+ Deaths: 4
+
+Login date: 5/8/2020 1:35:36 AM
+Level: Level 1
+ Time:  6.676515
+ Deaths: 0
+
+Login date: 5/8/2020 1:39:21 AM
+Level: Level 1
+ Time:  7.202061
+ Deaths: 0
+
+Login date: 5/8/2020 1:40:08 AM
+Level: Level 1
+ Time:  10.77027
+ Deaths: 0
+
+Level: Level 2
+ Time:  10.35396
+ Deaths: 0
+
+Level: Level 3
+ Time:  12.89791
+ Deaths: 0
+
+Level: Level 4
+ Time:  9.884093
+ Deaths: 0
+
+Level: Level 5
+ Time:  12.17419
+ Deaths: 0
+
+Level: Level 6
+ Time:  12.53769
+ Deaths: 0
+
+Level: Level 7
+ Time:  6.027876
+ Deaths: 0
+
+Level: Level 8
+ Time:  14.78234
+ Deaths: 0
+
+Level: Level 9
+ Time:  10.69125
+ Deaths: 0
+
+
+ GAME COMPLETE! 
+Total Time: 100.1196 Total Deaths: 0

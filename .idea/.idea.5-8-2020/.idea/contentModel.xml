@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Liam\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Liam\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_5-8-2020.1702678335.00" t="ExcludeRecursive" />
+    <e p="D:\Unity Projects\5-8-2020" t="IncludeRecursive">
+      <e p="5-8-2020.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Log.txt" t="Include" />
+        <e p="Materials" t="Include">
+          <e p="HeliosBust" t="Include">
+            <e p="Credit_For_Helios_Model.txt" t="Include" />
+          </e>
+        </e>
+        <e p="PlayerLog.txt" t="Include" />
+        <e p="Prefabs" t="Include">
+          <e p="PathfindingThing" t="Include">
+            <e p="NavMeshComponents-master" t="Include">
+              <e p="Assets" t="Include">
+                <e p="Examples" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="NavMeshComponentsExamplesEditor.asmdef" t="Include" />
+                    <e p="NavMeshPrefabInstanceEditor.cs" t="Include" />
+                  </e>
+                  <e p="NavMeshComponentsExamples.asmdef" t="Include" />
+                  <e p="Scripts" t="Include">
+                    <e p="AgentLinkMover.cs" t="Include" />
+                    <e p="ClickToMove.cs" t="Include" />
+                    <e p="DestroyOnTrigger.cs" t="Include" />
+                    <e p="DungeonManager.cs" t="Include" />
+                    <e p="EnableIffSleeping.cs" t="Include" />
+                    <e p="FreeCam.cs" t="Include" />
+                    <e p="LocalNavMeshBuilder.cs" t="Include" />
+                    <e p="MeshTool.cs" t="Include" />
+                    <e p="NavMeshPrefabInstance.cs" t="Include" />
+                    <e p="NavMeshSourceTag.cs" t="Include" />
+                    <e p="Oscillator.cs" t="Include" />
+                    <e p="RandomInstancing.cs" t="Include" />
+                    <e p="RandomWalk.cs" t="Include" />
+                    <e p="SpawnPrefabOnKeyDown.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="NavMeshComponents" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="NavMeshAssetManager.cs" t="Include" />
+                    <e p="NavMeshComponentsEditor.asmdef" t="Include" />
+                    <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+                    <e p="NavMeshLinkEditor.cs" t="Include" />
+                    <e p="NavMeshModifierEditor.cs" t="Include" />
+                    <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+                    <e p="NavMeshSurfaceEditor.cs" t="Include" />
+                  </e>
+                  <e p="Scripts" t="Include">
+                    <e p="NavMeshComponents.asmdef" t="Include" />
+                    <e p="NavMeshLink.cs" t="Include" />
+                    <e p="NavMeshModifier.cs" t="Include" />
+                    <e p="NavMeshModifierVolume.cs" t="Include" />
+                    <e p="NavMeshSurface.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Tests" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="NavMeshComponentsTestsEditmode.asmdef" t="Include" />
+                    <e p="NavMeshModifierVolumeInPrefabTests.cs" t="Include" />
+                    <e p="NavMeshSurfaceInPrefabTests.cs" t="Include" />
+                    <e p="NavMeshSurfaceInPrefabVariantTests.cs" t="Include" />
+                    <e p="PrefabSavingUtil.cs" t="Include" />
+                    <e p="PrefabStageAutoSavingUtil.cs" t="Include" />
+                  </e>
+                  <e p="NavMeshComponentsTestsPlaymode.asmdef" t="Include" />
+                  <e p="NavMeshSurfaceAgentTests.cs" t="Include" />
+                  <e p="NavMeshSurfaceLinkTests.cs" t="Include" />
+                  <e p="NavMeshSurfaceModifierTests.cs" t="Include" />
+                  <e p="NavMeshSurfaceModifierVolumeTests.cs" t="Include" />
+                  <e p="NavMeshSurfaceTests.cs" t="Include" />
+                </e>
+              </e>
+              <e p="ProjectSettings" t="Include">
+                <e p="ProjectVersion.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Pathfinding.cs" t="Include" />
+            <e p="ProjectileMovement.cs" t="Include" />
+            <e p="ProjectileSpawner.cs" t="Include" />
+          </e>
+          <e p="ProjectorMultiply.shader" t="Include" />
+        </e>
+        <e p="Scenes" t="Include">
+          <e p="TestingMechanics" t="Include">
+            <e p="RotateCamera" t="Include">
+              <e p="InputControl.cs" t="Include" />
+              <e p="NewBehaviourScript.cs" t="Include" />
+              <e p="NewCameraController.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ActivateEnemyHitBox.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
+          <e p="DeleteMyself.cs" t="Include" />
+          <e p="EndScreenResults.cs" t="Include" />
+          <e p="ForceDirectionToPlayer.cs" t="Include" />
+          <e p="GOAL.cs" t="Include" />
+          <e p="HealthBar.cs" t="Include" />
+          <e p="KillWhenFallen.cs" t="Include" />
+          <e p="LevelGeneration.cs" t="Include" />
+          <e p="LockMouse.cs" t="Include" />
+          <e p="Mezanix" t="Include">
+            <e p="RealisticWoodTextures" t="Include">
+              <e p="0_1_Documentation" t="Include">
+                <e p="Read_me.txt" t="Include" />
+                <e p="Textures_List.txt" t="Include" />
+              </e>
+              <e p="0_Demo_Scene" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="SimpleRotate.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="MouseOrbitImproved.cs" t="Include" />
+          <e p="MouseSpeedSetting.cs" t="Include" />
+          <e p="NoiseMapGeneration.cs" t="Include" />
+          <e p="particleExplosion.cs" t="Include" />
+          <e p="pauseGame.cs" t="Include" />
+          <e p="Pixelation.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="playerIsDead.cs" t="Include" />
+          <e p="RiverGeneration.cs" t="Include" />
+          <e p="rotateTowardsEachOther.cs" t="Include" />
+          <e p="shadow.cs" t="Include" />
+          <e p="SkyboxCamera.cs" t="Include" />
+          <e p="SlowMotion.cs" t="Include" />
+          <e p="TileGeneration.cs" t="Include" />
+          <e p="Timer.cs" t="Include" />
+          <e p="TimerManager.cs" t="Include" />
+          <e p="titleScreenScript.cs" t="Include" />
+          <e p="TornadoThing" t="Include">
+            <e p="ParticleUnity.cs" t="Include" />
+            <e p="RandomColor.cs" t="Include" />
+            <e p="Spawner.cs" t="Include" />
+            <e p="tornadoMove.cs" t="Include" />
+          </e>
+          <e p="TreeGeneration.cs" t="Include" />
+          <e p="TXT_File_Tutorial.cs" t="Include" />
+          <e p="UnityInspectorInfoTextNote-master" t="Include">
+            <e p="Assets" t="Include">
+              <e p="_Scripts" t="Include">
+                <e p="Tools" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="InspectorNote.cs" t="Include" />
+                  </e>
+                  <e p="InformationNote.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsEditor.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsExamples.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsExamplesEditor.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsTestsEditmode.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsTestsPlaymode.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
